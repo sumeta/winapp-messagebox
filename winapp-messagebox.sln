@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winapp-messagebox", "winapp-messagebox\winapp-messagebox.csproj", "{5756DDBC-A52D-45E8-B206-9E3A103C4D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5756DDBC-A52D-45E8-B206-9E3A103C4D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5756DDBC-A52D-45E8-B206-9E3A103C4D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5756DDBC-A52D-45E8-B206-9E3A103C4D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5756DDBC-A52D-45E8-B206-9E3A103C4D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3C1367-DBC4-41FB-A596-B5E6F8D24B33}
+	EndGlobalSection
+EndGlobal
